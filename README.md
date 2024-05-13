@@ -1,98 +1,39 @@
-# 👋🏻 Howdy,
+# 👋🏻 Howdy, I'm Keith Lamb!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# I'm Keith Lamb,
-## I am a Programmer,
-### My Education comes from BloomTech Institute of Technology, where I've been working on my Full Stack Web Development Certification.
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50"> Experienced in building dynamic and responsive web applications using React.
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" height="50"> I love coding in Python and am proficient in Django, a web development framework. I also know a bit of machine learning and AI.
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="50" height="50"> I also know Java and enjoy coding in it.
-- <img src="https://cdn.svgporn.com/logos/aws.svg" width="30" height="30"> I also like AWS, Amazon Web Services.
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width="30" height="30"> I have built some projects and am planning to build some more.
+## 🧑‍💻 About Me
+### I am a passionate Programmer currently pursuing a Full Stack Web Development Certification from BloomTech Institute of Technology. My interests span across building dynamic web applications, exploring machine learning, and diving into AI technologies.
 
-## My Tech Stack
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <strong>Python</strong><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="20%" align="center">
-        <strong>AWS</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="20%" align="center">
-        <strong>Java</strong><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="20%" align="center">
-        <strong>Django</strong><br><br>
-        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
-      </td>
-      <td width="20%" align="center">
-        <strong>Bootstrap</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td align="center">
-        <strong>CSS</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td align="center">
-        <strong>HTML 5</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td align="center">
-        <strong>Git</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td align="center">
-        <strong>VS Code</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td align="center">
-        <strong>Vue.js</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td align="center">
-        <strong>TypeScript</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-      </td>
-      <td align="center">
-        <strong>Next.js</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-      </td>
-      <td align="center">
-        <strong>NPM</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
-      </td>
-      <td align="center">
-        <strong>Docker</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-      </td>
-      <td align="center">
-        <strong>Node.js</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 🌐 Tech Stack
+Here are some of the technologies I work with:
 
+| Category    | Technologies                                                                                      |
+|-------------|---------------------------------------------------------------------------------------------------|
+| Languages   | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) |
+| Front-End   | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) |
+| Back-End    | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) |
+| DevOps      | ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) |
+| Tools       | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) |
+
+## 🛠️ Projects
+I love coding in JavaScript and am proficient in Django. I also enjoy working with Java and JavaScript frameworks like React and Vue.js. Here are a few projects I've built:
+- **Dynamic Web Applications**: Using React for responsive UIs.
+- **Cloud Services**: Deploying applications on AWS with Docker.
+
+## 📈 GitHub Stats
 ![KeithLamb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeithLamb72&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<a href="https://www.linkedin.com/in/keith-lamb/">
-  <img align="center" alt="Keith Lamb | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-<a href="mailto:keithianlamb@gmail.com">
-  <img align="center" alt="Keith Lamb | Email" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width= "500" height= "200">
+## 📫 How to Reach Me
+- **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-KeithLamb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keith-lamb/)](https://www.linkedin.com/in/keith-lamb/)
+- **Email**: <a href="mailto:keithianlamb@gmail.com">keithianlamb@gmail.com</a>
 
-<br><br><br><br>
+## 🌟 Visitors
+<img src="https://komarev.com/ghpvc/?username=KeithLamb72&color=blue" alt="visitor badge"/>
+
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500" height="200">
+</div>
