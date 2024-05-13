@@ -27,7 +27,7 @@ I love coding in JavaScript and am proficient in Django. I also enjoy working wi
 ![KeithLamb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeithLamb72&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-KeithLamb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keith-lamb/)](https://www.linkedin.com/in/keith-lamb/)
+- **LinkedIn**: [![Linkedin Badge](https://img.shields.io/badge/-KeithLamb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keith-lamb-b9a1a01a9/)](https://www.linkedin.com/in/keith-lamb-b9a1a01a9/)
 - **Email**: <a href="mailto:keithianlamb@gmail.com">keithianlamb@gmail.com</a>
 
 ## 🌟 Visitors
