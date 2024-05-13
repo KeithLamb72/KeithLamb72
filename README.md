@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# I am Keith Lamb,
+# I'm Keith Lamb,
 ## I am a Programmer,
 ### My Education comes from BloomTech Institute of Technology, where I've been working on my Full Stack Web Development Certification.
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50"> Experienced in building dynamic and responsive web applications using React.
