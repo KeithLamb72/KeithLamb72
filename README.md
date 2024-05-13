@@ -6,7 +6,7 @@
 
 # I am Keith Lamb,
 ## I am a Programmer,
-### My Education comes from BloomTech Institute of Technology, where I've been working on my Full Stack Web Development Certification
+### My Education comes from BloomTech Institute of Technology, where I've been working on my Full Stack Web Development Certification.
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50"> Experienced in building dynamic and responsive web applications using React.
 - <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" height="50"> I love coding in Python and am proficient in Django, a web development framework. I also know a bit of machine learning and AI.
 - <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="50" height="50"> I also know Java and enjoy coding in it.
@@ -58,6 +58,28 @@
       <td align="center">
         <strong>Vue.js</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td align="center">
+        <strong>TypeScript</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td align="center">
+        <strong>Next.js</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+      </td>
+      <td align="center">
+        <strong>NPM</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
+      </td>
+      <td align="center">
+        <strong>Docker</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td align="center">
+        <strong>Node.js</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
     </tr>
   </tbody>
