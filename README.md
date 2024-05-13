@@ -72,6 +72,5 @@
   <img align="center" alt="Keith Lamb | Email" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width= "500" height= "200">
-![Visitor Count](https://komarev.com/ghpvc/?username=KeithLamb72&color=blue)
 
 <br><br><br><br>
