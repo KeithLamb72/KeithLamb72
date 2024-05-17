@@ -13,14 +13,14 @@ Here are some of the technologies I work with:
 | Category    | Technologies                                                                                      |
 |-------------|---------------------------------------------------------------------------------------------------|
 | Languages   | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) |
-| Front-End   | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) |
+| Front-End   | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) |
 | Back-End    | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) |
 | DevOps      | ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) |
 | Tools       | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) |
 
 ## 🛠️ Projects
 I love coding in JavaScript and am proficient in Django. I also enjoy working with Java and JavaScript frameworks like React and Vue.js. Here are a few projects I've built:
-- **Dynamic Web Applications**: Using React for responsive UIs.
+- **Dynamic Web Applications**: Using React and Redux for responsive UIs.
 - **Cloud Services**: Deploying applications on AWS with Docker.
 
 ## 📈 GitHub Stats
