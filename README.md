@@ -5,17 +5,20 @@
 </div>
 
 ## 🎯 Full Stack Web Developer | Software Engineer
-
-### *"The only way to go fast, is to go well"*
-
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Full Stack Web Developer with a strong foundation in both front-end and back-end technologies. Currently, I'm advancing my skills in the **Java Full Stack Development Program** at **Per Scholas**, sponsored by **TEKsystems**. I thrive on building dynamic and responsive web applications, developing scalable solutions, and enhancing user experiences.
+*I'm a passionate Full Stack Web Developer with a strong foundation in both front-end and back-end technologies. Currently, I'm advancing my skills in the **Java Full Stack Development Program** at **Per Scholas**, sponsored by **TEKsystems**. I thrive on building dynamic and responsive web applications, developing scalable solutions, and enhancing user experiences.*
 
 ---
+---
+### *"The only way to go fast, is to go well"*
+<div align="left">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500" height="300">
+</div>
 
+---
 ## 🚀 Technical Skills
 
 ### **Languages**
@@ -150,13 +153,6 @@ I'm a passionate Full Stack Web Developer with a strong foundation in both front
 ## 🌟 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KeithLamb72&color=blue)
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500" height="300">
-</div>
-
 ---
 
 ## 💡 Quote of the Day
