@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-*I'm a passionate Full Stack Web Developer with a strong foundation in both front-end and back-end technologies. Currently I thrive on building dynamic and responsive web applications, developing scalable solutions, and enhancing user experiences.* **Translation** " Use ChatGPT To Vibe Code and fix stuff I barely understand because I got no EXP. :| "
+*I have a background in full-stack development and enterprise application workflows, with training in Java Full Stack Development through Per Scholas (sponsored by TEKsystems). I focus on building and supporting systems that are reliable, well-structured, and aligned with real operational needs.*
 
 ---
 ---
